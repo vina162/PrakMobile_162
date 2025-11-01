@@ -27,6 +27,6 @@ Saat ini saya sedang belajar *Mobile Programming*.
 | 8  | 25 September 2025 | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route                   | [Laporan 8](https://drive.google.com/file/d/1LBbuXxvszOoIvzbsX05N0qwujuXpx0YQ/view?usp=sharing)           | [Modul 8](https://github.com/vina162/modul8) |
 | 9  | 2 Oktober 2025 | StatefulWidget                   | [Laporan 9](https://drive.google.com/file/d/16z95l_I9JDPlXulhcjRjF_BlVVNmn2wN/view?usp=sharing)           | [Modul 9](https://github.com/vina162/modul9) |
 | 10  | 9 Oktober 2025 | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter                   | [Laporan 10](https://drive.google.com/file/d/1aiHvclP_avsBrHouHlhkhYsYZAmU8ktU/view?usp=sharing)           | [Modul 10](https://github.com/vina162/modul10) |
-| 11  | 16 Oktober 2025 | 	Manajemen State dengan GetX                   | [Laporan 11](https://drive.google.com/file/d/1JzzAODYllXF_zRm3lqN93dJLw7AoVNTj/view?usp=sharing)           | [Modul 11](https://github.com/ndilashfr/modul11) |
+| 11  | 16 Oktober 2025 | 	Manajemen State dengan GetX                   | [Laporan 11](https://drive.google.com/file/d/1292340WOWg16uUNDvFMGCdUxBnRzWVkY/view?usp=sharing)           | [Modul 11](https://github.com/vina162/modul11) |
 | 17  | 18 Oktober 2025 | 	Ujian Tengah Semester                  | [UTS]( https://drive.google.com/file/d/1fyzV9E6QI4gSpsa_Wjnzp8yAa5KE04mw/view?usp=sharing )           | [Modul UTS](https://github.com/vina162/uts) |
 ---
